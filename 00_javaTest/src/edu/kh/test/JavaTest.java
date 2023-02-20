@@ -15,6 +15,7 @@ public class JavaTest {
 		//System.out.println("점심 맛있게 드셨나요?.");
 		System.out.println("println()은 한 줄 출력입니다.");
 		System.out.println( 100 + 200 + 300 + 400 );
+		System.out.println("깃허브 테스트");
 	}
 
 	
